@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  patient:
+    image: patient-management-app:latest
+    container_name: patient-management-app
+    ports:
+      - "8080:8080"
+    networks:
+      - patient-network
+
+networks:
+  patient-network:
+    driver: bridge
