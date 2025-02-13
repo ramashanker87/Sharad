@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "rabbitmq.name.queue.name",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.name.queue.name."
+    },
+    {
+      "name": "rabbitmq.student.queue.name",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.student.queue.name."
+    }
+  ] }

@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "rabbitmq.student.queue.name",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.student.queue.name."
+    },
+    {
+      "name": "rabbitmq.exchange.name",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.exchange.name."
+    },
+    {
+      "name": "rabbitmq.student.routingkey.name",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.student.routingkey.name."
+    },
+    {
+      "name": "rabbitmq.name.queue.name",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.name.queue.name."
+    },
+    {
+      "name": "rabbitmq.name.routingkey.name",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.name.routingkey.name."
+    }
+  ] }
