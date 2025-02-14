@@ -1,4 +1,4 @@
-package com.rama.app;
+package com.sharad.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
