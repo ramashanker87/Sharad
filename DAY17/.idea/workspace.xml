@@ -1,56 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e9fa317b-d224-4758-bfc3-6c9a5b4cddbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/main/java/com/sharad/app/configuration/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/main/java/com/sharad/app/controller/PatientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/main/java/com/sharad/app/model/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/main/java/com/sharad/app/patient_management_app/PatientManagementAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/main/java/com/sharad/app/service/PatientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/test/java/com/sharad/app/controller/PatientControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/test/java/com/sharad/app/patient_management_app/PatientManagementAppApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAY13/patient-management-app/src/test/java/com/sharad/app/service/PatientServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-consumer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-consumer/src/main/java/com/rabbit/app/Student_Consumer_app/StudentConsumerAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-consumer/src/main/java/com/rabbit/app/consumer/RabbitMqConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-consumer/src/main/java/com/rabbit/app/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-consumer/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-consumer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-consumer/src/test/java/com/rabbit/app/Student_managment_app/StudentManagmentAppApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/src/main/java/com/rabbit/app/Student_producer_app/StudentProducerAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/src/main/java/com/rabbit/app/configuration/RabbitMqConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/src/main/java/com/rabbit/app/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/src/main/java/com/rabbit/app/module/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/src/main/java/com/rabbit/app/service/RabbitMqSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/rabbitmq-student-producer/src/test/java/com/rabbit/app/Student_managment_app/StudentManagmentAppApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/src/main/java/com/rabbit/app/Student_managment_app/StudentManagmentAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student-managment-app/src/test/java/com/rabbit/app/Student_managment_app/StudentManagmentAppApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAY01/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAY01/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAY01/first-java-project/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAY01/first-java-project/src/main/java/com/rama/app/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAY01/first-java-project/src/test/java/com/rama/app/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAY02/Day2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DAY02/Day2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAY05/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,37 +17,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;ramashanker87&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ramashanker87/Sharad.git&quot;,
-    &quot;accountId&quot;: &quot;a3a6fbdd-b67f-42e2-83d3-e8df65a64332&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
   <component name="ProjectId" id="2swemKB2Z1H5qhEiBggLnZpGXGy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/Sharad&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Rama" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\Sharad\DAY17\student-management-app" />
@@ -98,12 +34,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="DAY17" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="DAY17" />
       <option name="filePath" />

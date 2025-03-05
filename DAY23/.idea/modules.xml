@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DAY23.iml" filepath="$PROJECT_DIR$/.idea/DAY23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECR/cloudformation/calculator-app/calculator-app.iml" filepath="$PROJECT_DIR$/ECR/cloudformation/calculator-app/calculator-app.iml" />
+    </modules>
+  </component>
+</project>
